@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>As melhores notícias você encontra aqui!!</h1>
+        <h1> As melhores notícias você encontra aqui!! </h1>
     </header>
     <nav>
         <a href="#">Inicio</a>
@@ -17,12 +17,12 @@
         <a href="#">Assinantes</a>
     </nav>
     <main>
-        <h1>O primeiro cão a ir à Lua: Um marco histórico na exploração espacial</h1>
-        <p>Em um feito sem precedentes na história da exploração espacial, um <strong>cão</strong> tornou-se o primeiro animal a pisar na Lua. A missão, cuidadosamente planejada e executada pela agência espacial, foi um marco não apenas para a ciência e a tecnologia, mas também para o vínculo entre humanos e seus companheiros caninos.</p>
+        <h1> O primeiro cão a ir à Lua: Um marco histórico na exploração espacial </h1>
+        <p> Em um feito sem precedentes na história da exploração espacial, um <strong>cão</strong> tornou-se o primeiro animal a pisar na Lua. A missão, cuidadosamente planejada e executada pela agência espacial, foi um marco não apenas para a ciência e a tecnologia, mas também para o vínculo entre humanos e seus companheiros caninos. </p>
 
-        <p>O protagonista dessa aventura espacial é Max, um pastor alemão de cinco anos. Treinado desde filhote para suportar as condições extremas do espaço, Max passou por um <strong>rigoroso</strong> programa de preparação que incluiu simulações de gravidade zero, resistência a altas velocidades e adaptação a ambientes confinados. Sua inteligência, lealdade e resistência física fizeram dele o candidato ideal para essa <strong>missão</strong> histórica.</p>
+        <p> O protagonista dessa aventura espacial é Max, um pastor alemão de cinco anos. Treinado desde filhote para suportar as condições extremas do espaço, Max passou por um <strong>rigoroso</strong> programa de preparação que incluiu simulações de gravidade zero, resistência a altas velocidades e adaptação a ambientes confinados. Sua inteligência, lealdade e resistência física fizeram dele o candidato ideal para essa <strong>missão</strong> histórica. </p>
         
-        <p>A viagem de Max à <strong>Lua</strong> foi realizada a bordo da nave espacial Artemis IV, equipada com tecnologias de ponta para garantir a segurança e o bem-estar do primeiro astronauta canino. O lançamento ocorreu sem problemas e, após três dias de viagem, Max e sua equipe de astronautas humanos chegaram à superfície lunar.</p>
+        <p> A viagem de Max à <strong>Lua</strong> foi realizada a bordo da nave espacial Artemis IV, equipada com tecnologias de ponta para garantir a segurança e o bem-estar do primeiro astronauta canino. O lançamento ocorreu sem problemas e, após três dias de viagem, Max e sua equipe de astronautas humanos chegaram à superfície lunar. </p>
         
         <p>Equipado com uma versão especial do traje espacial, adaptada para suas necessidades fisiológicas, Max explorou a superfície lunar com curiosidade e entusiasmo. As imagens transmitidas para a Terra mostraram o cão caminhando, farejando e até tentando cavar o solo lunar, comportamento típico de um cão em um ambiente novo.</p>
         
