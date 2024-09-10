@@ -1,7 +1,7 @@
 <h1 align="center">Opa 👋, Me chamo Natanael</h1>
 <h3 align="center">Entusiasta na área da tecnologia, aprendendo programação!!</h3>
 
-- 🔭 Atualmente trabalhando no meu portfólio [https: https://nathansama4.github.io/portifolio/]
+- 🔭 Atualmente trabalhando no meu portfólio https://nathansama4.github.io/portifolio/
 
 - 🌱 Estou aprendendo **CSS, JavaScript, React**
 
