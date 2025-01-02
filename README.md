@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando no meu portfólio https://nathansama4.github.io/portifolio/
 
-- 🌱 Estou aprendendo **CSS, JavaScript, React**
+- 🌱 Estou aprendendo **CSS, JavaScriptt**
 
 <h3 align="left">Principais Linguagens:</h3>
 <p align="left"> 
